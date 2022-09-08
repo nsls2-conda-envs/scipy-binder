@@ -3,6 +3,7 @@ channels:
   - nsls2forge
 dependencies:
   - python=3.9
+  - conda-pack
   - amostra
   - area-detector-handlers
   - arvpyf
