@@ -1,5 +1,5 @@
 docker_image: "nsls2/linux-anvil-cos7-x86_64:latest"
-env_name: "py39"
+env_name: "scipy-binder-py39"
 conda_env_file: "env-py39.yml"
 conda_binary: "mamba"
 python_version: "3.9"
